@@ -3,6 +3,10 @@
 		{
 			"name": "ESP_Workspace",
 			"path": "."
+		},
+		{
+			"name": "serial://dev/tty.usbserial-56570390271",
+			"uri": "serial://%2fdev%2ftty.usbserial-56570390271/"
 		}
 	]
 }
